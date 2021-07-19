@@ -1,0 +1,123 @@
+{
+  "questions": [
+    {
+      "title": "Why we use &lt;br&gt; Element?",
+      "category": "HTML",
+      "options": [
+        "To make bold text.",
+        "To make italic text.",
+        "To add a break line.",
+        "To create a horizontal line."
+      ],
+      "answer": "To add a break line."
+    },
+
+    {
+      "title": "Is &lt;img&gt; element has attribute href?",
+      "category": "HTML",
+      "options": [
+        "Yes.",
+        "No, it's for anchor &lt;a&gt; tag.",
+        "All elements has that attribute.",
+        "Answer 1 & 3"
+      ],
+      "answer": "No, it's for anchor &lt;a&gt; tag."
+    },
+
+    {
+      "title": "Which one is correct team name in NBA?",
+      "category": "Sport",
+      "options": [
+        "New York Bulls",
+        "Los Angeles Kings",
+        "Golden State Warriros",
+        "Huston Rocket"
+      ],
+      "answer": "Huston Rocket"
+    },
+
+    {
+      "title": "How can make the text bold?",
+      "category": "HTML",
+      "options": [
+        "Putting the text inside &lt;b&gt; tag.",
+        "Putting the text inside &lt;strong&gt; tag.",
+        "Customizing it with font-weight property in css.",
+        "All answers are right."
+      ],
+      "answer": "All answers are right."
+    },
+
+    {
+      "title": "How we can add an external page inside the html page?",
+      "category": "HTML",
+      "options": [
+        "By including it html.",
+        "By loading in html.",
+        "By using iframe tag.",
+        "All answers are wrong."
+      ],
+      "answer": "By using iframe tag."
+    },
+
+    {
+      "title": "5 + 7 = ?",
+      "category": "Maths",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "12"
+    },
+
+    {
+      "title": "Which tag isn't exist in html?",
+      "category": "HTML",
+      "options": [
+        "&lt;object&gt;&lt;/object&gt;",
+        "&lt;basefont&gt;&lt;/basefont&gt;",
+        "&lt;abbr&gt;&lt;/abbr&gt;",
+        "All tags are exist in html."
+      ],
+      "answer": "All tags are exist in html."
+    },
+
+    {
+      "title": "Which way that specify html 5 document?",
+      "category": "HTML",
+      "options": [
+          "&lt;DOCTYPE html&gt;",
+          "&lt;DOCTYPE html5&gt;",
+          "&lt;!DOCTYPE html5&gt;",
+          "&lt;!DOCTYPE html&gt;"
+      ],
+      "answer": "&lt;!DOCTYPE html&gt;"
+    },
+
+    {
+      "title": "Which one is the right way to add attributes?",
+      "category": "HTML",
+      "options": [
+          "&lt;div class='class-name'&gt;",
+          "&lt;div class=class-name&gt;",
+          "&lt;div class=\"class-name\"&gt;",
+          "All answers are right."
+      ],
+      "answer": "All answers are right."
+    },
+
+    {
+      "title": "12 - 8 = ?",
+      "category": "Maths",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "4"
+    }
+  ]
+}
